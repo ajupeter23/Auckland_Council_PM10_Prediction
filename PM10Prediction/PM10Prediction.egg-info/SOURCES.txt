@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+PM10Prediction.egg-info/PKG-INFO
+PM10Prediction.egg-info/SOURCES.txt
+PM10Prediction.egg-info/dependency_links.txt
+PM10Prediction.egg-info/requires.txt
+PM10Prediction.egg-info/top_level.txt
+pm10_prediction/__init__.py
+pm10_prediction/data_cleaner.py
+pm10_prediction/predictor.py
